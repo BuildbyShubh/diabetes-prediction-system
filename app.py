@@ -62,17 +62,12 @@ This web application predicts the risk of diabetes using a **Decision Tree Machi
 
 **Age:** 20
 
-**Course:** Bachelor of Computer Applications (BCA)
+**Course:** Bachelor of Computer Applications in Cloud Technology and Information security
 
 **Specialization:** Cyber Security
 
-**College:** Your College Name
-
-**LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
-
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-
-**Email:** your_email@example.com
+**College:** Panipat institute of Engineering and Technology
+**Roll No. : 241331
 
 ---
 
