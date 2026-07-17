@@ -67,7 +67,7 @@ This web application predicts the risk of diabetes using a **Decision Tree Machi
 **Specialization:** Cyber Security
 
 **College:** Panipat institute of Engineering and Technology
-**Roll No. : 241331
+**Roll No. :** 241331
 
 ---
 
